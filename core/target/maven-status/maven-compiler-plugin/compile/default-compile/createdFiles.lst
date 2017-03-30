@@ -1,0 +1,6 @@
+org\aemtraining\aemtraining\core\listeners\SimpleResourceListener.class
+org\aemtraining\aemtraining\core\package-info.class
+org\aemtraining\aemtraining\core\models\HelloWorldModel.class
+org\aemtraining\aemtraining\core\filters\LoggingFilter.class
+org\aemtraining\aemtraining\core\schedulers\SimpleScheduledTask.class
+org\aemtraining\aemtraining\core\servlets\SimpleServlet.class
